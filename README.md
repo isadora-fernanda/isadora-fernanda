@@ -1,4 +1,4 @@
-## Olá, eu sou a Isadora
+## Oi, eu sou a Isa!
 
 Engenheira Eletrônica e Eletricista formada pela **UTFPR**, desenvolvedora **Python**, com experiência em sistemas embarcados e FPGA. Meu TCC, uma implementação em VHDL numa FPGA, foi apresentado em Kobe, no Japão. Em 2026 concluí o curso **Python para IA** do Entra21 (Blusoft e ACATE).
 
