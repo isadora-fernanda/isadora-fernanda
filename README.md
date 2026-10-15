@@ -8,10 +8,10 @@ Busco oportunidades em desenvolvimento de software, sistemas embarcados ou FPGA.
 
 ### Tecnologias
 
-- **Linguagens:** Python · C · C++ · VHDL · Assembly (PIC) · SQL · Java
+- **Linguagens:** Python · C · C++ · VHDL · Assembly (PIC) · SQL · HTML · CSS · JavaScript · Java
 - **Python:** Django · Flask · Streamlit · pandas · Plotly · Requests · BeautifulSoup · Pillow
-- **Embarcados e hardware:** Arduino · PIC16F877 · FPGA Intel MAX 10 · Nios II · FreeRTOS · Proteus · Quartus · Multisim · Elipse E3
-- **Dados e ferramentas:** MySQL · SQLite · Git · Qt
+- **Embarcados e hardware:** Arduino · PIC16F877 · FPGA Intel MAX 10 · Nios II · projeto de PCB (EasyEDA) · Proteus · Quartus · Multisim · Elipse E3
+- **Dados e ferramentas:** MySQL · SQLite · Git · Qt · MATLAB
 
 ### Projetos em destaque
 
