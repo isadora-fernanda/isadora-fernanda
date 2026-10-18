@@ -1,16 +1,16 @@
 ## Oi, eu sou a Isa!
 
-Engenheira Eletrônica e Eletricista formada pela **UTFPR**, desenvolvedora **Python**, com experiência em sistemas embarcados e FPGA. Meu TCC, uma implementação em VHDL numa FPGA, foi apresentado em Kobe, no Japão. Em 2026 concluí o curso **Python para IA** do Entra21 (Blusoft e ACATE).
+Engenheira Eletrônica e Eletricista formada pela **UTFPR** e desenvolvedora **Python**, com experiência em sistemas embarcados e FPGA. Na Mars Tecnologia, projetei a placa e programei em C++ o firmware de um equipamento com ESP8266, testado em campo. Meu TCC, uma implementação em VHDL numa FPGA, foi apresentado em Kobe, no Japão. Em 2026 concluí o curso **Python para IA** do Entra21 (Blusoft e ACATE).
 
-Busco oportunidades em desenvolvimento de software, sistemas embarcados ou FPGA.
+Busco oportunidades em desenvolvimento de software, sistemas embarcados ou FPGA, de preferência unindo hardware e software.
 
-> **English:** Electronics and Electrical Engineer (UTFPR) and Python developer with a background in embedded systems and FPGA. My thesis, a VHDL implementation on an FPGA, was presented in Kobe, Japan. Fluent in English and open to software, embedded and FPGA roles.
+> **English:** Electronics and Electrical Engineer (UTFPR) and Python developer with a background in embedded systems and FPGA. I designed the PCB and wrote the C++ firmware for an ESP8266-based device tested in the field, and my thesis, a VHDL implementation on an FPGA, was presented in Kobe, Japan. Fluent in English and open to software, embedded and FPGA roles.
 
 ### Tecnologias
 
 - **Linguagens:** Python · C · C++ · VHDL · Assembly (PIC) · SQL · HTML · CSS · JavaScript · Java
 - **Python:** Django · Flask · Streamlit · pandas · Plotly · Requests · BeautifulSoup · Pillow
-- **Embarcados e hardware:** Arduino · PIC16F877 · FPGA Intel MAX 10 · Nios II · projeto de PCB (EasyEDA) · Proteus · Quartus · Multisim · Elipse E3
+- **Embarcados e hardware:** ESP8266 · Arduino · PIC16F877 · FPGA Intel MAX 10 · Nios II · projeto de PCB (EasyEDA) · Proteus · Quartus · Multisim · Elipse E3
 - **Dados e ferramentas:** MySQL · SQLite · Git · Qt · MATLAB
 
 ### Projetos em destaque
@@ -19,12 +19,12 @@ Busco oportunidades em desenvolvimento de software, sistemas embarcados ou FPGA.
 
 | Projeto | Descrição |
 |---|---|
-| [painel-obras-blumenau](https://github.com/isadora-fernanda/painel-obras-blumenau) | Scraping das obras públicas de Blumenau, banco MySQL, API Flask e painel Streamlit com análise de risco e assistente com IA |
-| [cadastro-produtos-django](https://github.com/isadora-fernanda/cadastro-produtos-django) | Sistema web de cadastro de produtos com Django, CRUD completo, upload de imagem e testes |
+| [painel-obras-blumenau](https://github.com/isadora-fernanda/painel-obras-blumenau) | Scraping das obras públicas de Blumenau com MySQL e API Flask, e painel Streamlit que acompanha prazos e atrasos, com assistente de IA |
+| [cadastro-produtos-django](https://github.com/isadora-fernanda/cadastro-produtos-django) | Sistema web de cadastro de produtos com Django, CRUD completo, upload de imagem, busca e testes |
 | [monitor-precos-bistek](https://github.com/isadora-fernanda/monitor-precos-bistek) | Web scraper que grava o histórico de preços de um supermercado em MySQL |
 | [bot-clima-telegram](https://github.com/isadora-fernanda/bot-clima-telegram) | Bot do Telegram que consulta o clima e responde com um card em imagem gerado com Pillow |
 
-**Sistemas embarcados, FPGA e eletrônica**
+**Sistemas embarcados, FPGA, eletrônica e C/C++**
 
 | Projeto | Descrição |
 |---|---|
@@ -33,11 +33,6 @@ Busco oportunidades em desenvolvimento de software, sistemas embarcados ou FPGA.
 | [coffeteira-arduino](https://github.com/isadora-fernanda/coffeteira-arduino) | Cafeteira programável com Arduino, controle PID, RTC, esquemático e placa de circuito impresso |
 | [doglight-monitor-aerogerador](https://github.com/isadora-fernanda/doglight-monitor-aerogerador) | Circuito analógico que monitora a tensão de um aerogerador, com isolamento por optoacopladores |
 | [supervisorio-ursinhos-e3](https://github.com/isadora-fernanda/supervisorio-ursinhos-e3) | Sistema supervisório (SCADA) de uma linha de produção no Elipse E3 |
-
-**C e C++**
-
-| Projeto | Descrição |
-|---|---|
 | [geometria-2d-qt](https://github.com/isadora-fernanda/geometria-2d-qt) | Aplicação desktop em C++ com Qt para desenhar objetos geométricos 2D |
 | [jogo-2048-c](https://github.com/isadora-fernanda/jogo-2048-c) | Jogo 2048 para terminal, escrito em C |
 
